@@ -13,6 +13,9 @@ Actualmente la colección incluye:
 - Juan 10:28
 - Juan 5:24
 - Juan 5:39
+- Juan 3:16
+- Juan 17:3
+- Juan 6:47
 
 ## Publicación
 
