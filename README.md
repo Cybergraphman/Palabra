@@ -1,14 +1,18 @@
 # Palabra
 
-Galería de diseño gráfico y composiciones visuales con textos bíblicos.
+Galería de diseño gráfico y composiciones visuales con textos bíblicos de la **Reina-Valera 1960**.
 
 Proyecto de **Cybergraphman**.
 
 ## Galería
 
-La página de inicio está en `index.html`. Las imágenes se guardan en `assets/`.
+La página está en `index.html` y los archivos gráficos se guardan en `imagenes/`.
 
-**Primera obra:** Juan 6:47. Para mostrar la imagen en la galería, subirla a `assets/juan-6-47.png`.
+Actualmente la colección incluye:
+
+- Juan 10:28
+- Juan 5:24
+- Juan 5:39
 
 ## Publicación
 
